@@ -1,0 +1,31 @@
+Pasos para crear un proyecto de react:
+1 - Tener node js previamente instalado
+2 - Abrir una terminal de comandos (CMD, PowerShell, Node, etc) "no aplica para GitBash"
+3 - npm create vite@latest
+    npm init vite@latest
+4 - dar el nombre al proyecto
+    sin espacios
+    sin tildes o acentos
+    sin mayúsculas
+    sin guines bajos
+    sin numeros
+    sin caracteres especiales
+    solo se permite el guión medio
+5 - seleccionar el framework o librería o biblioteca a trabajar 
+6 - seleccionar el lenguaje de programación
+7 - abrir la nueva carpeta con cualquier terminal
+    (editor, cmd, powershell, gitBash, etc)
+8 - instalar paquetes o dependencias de desarrollo
+9 - levantar el servidor
+
+
+npm create vite@latest
+dar nombre al proyecto
+selccionar framework y librería
+npm install
+npm run dev
+
+
+Borrar el archivo App.css
+Borrar el contenido de index.css
+Borrar la importacion de App.css en App.jsx
